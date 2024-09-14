@@ -1,10 +1,5 @@
--  Hi, I’m @MrAiKen007
--  I’m interested in ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  How to reach me ...
-
-<!---
-MrAiKen007/MrAiKen007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Principais Linguagens**:  
+- C#, Python, JavaScript
+![C#](https://img.shields.io/badge/-C%23-blue?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=white)
