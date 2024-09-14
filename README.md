@@ -18,8 +18,8 @@
   <text x="20" y="40" class="text title">👨‍💻 Full Stack Developer</text>
   <text x="20" y="70" class="subtext">Building with C#, Python, JavaScript</text>
 
-  <!-- Current Time -->
-  <text x="20" y="110" class="time" id="current-time">🕒 Time: --:--</text>
+  <!-- Current Time (Static Placeholder) -->
+  <text x="20" y="110" class="time">🕒 Time: 14:35</text>
 
   <!-- Current Activity -->
   <text x="20" y="150" class="text">📝 Current Activity: Enhancing AI-based App</text>
@@ -46,17 +46,4 @@
   <rect x="250" y="210" width="200" height="20" class="progress" rx="10"/>
   <rect x="250" y="210" width="120" height="20" class="progress-bar" rx="10"/>
   <text x="250" y="245" class="text">60% - AI Note Organizer</text>
-
-  <!-- Script to Show Time -->
-  <script type="text/javascript">
-    function updateTime() {
-      var now = new Date();
-      var hours = now.getHours();
-      var minutes = now.getMinutes();
-      if (minutes < 10) { minutes = '0' + minutes; }
-      document.getElementById('current-time').textContent = '🕒 Time: ' + hours + ':' + minutes;
-    }
-    setInterval(updateTime, 1000);
-    updateTime();
-  </script>
 </svg>
