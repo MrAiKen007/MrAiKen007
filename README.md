@@ -1,114 +1,61 @@
+<!-- Animated README — SkillTech -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SkillTech-CTO-%23E00070?style=for-the-badge&logo=ton&logoColor=white" />
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CTO-%23E00070?style=for-the-badge&logo=github" alt="Role" />
+  <img src="https://img.shields.io/badge/Stack-Solidity%20%7C%20TON-%235A00FF?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Status-Active-%230099FF?style=for-the-badge" alt="Status" />
 </p>
 
-<h1 align="center" style="color:#E00070;">👋 Olá, eu sou o Jorge Paim</h1>
+# 👋 Jorge Paim — Founder & CTO @ SkillTech
+**Blockchain Builder · Infraestrutura Financeira Descentralizada (sKZ | DEX | Wallet)**
 
-<p align="center" style="font-size:16px;">
-  <b>Founder & CTO da SkillTech • Blockchain Builder • Arquiteto de Infraestrutura Financeira</b>
+---
+
+<p align="center">
+  <!-- Animated GIF placeholder: replace with ./assets/skilltech-anim.gif -->
+  <img src="./assets/skilltech-anim.gif" alt="SkillTech Animation" width="560" />
 </p>
 
 ---
 
-## 🚀 <span style="color:#E00070;">Quem eu sou</span>
-Sou responsável pela visão técnica e pela construção do ecossistema financeiro da **SkillTech**, criando soluções que combinam:
-
-- **Stablecoins lastreadas**
-- **Tokenização de ativos reais**
-- **DEX e pools de liquidez**
-- **Pagamentos com QR Code**
-- **Arquitetura híbrida Web2 + Web3**
-- **Contratos inteligentes escaláveis (TON + EVM)**
-
-Desenvolvo infraestrutura que transforma o mercado angolano e africano para a nova era digital.
+## 🚀 Highlights
+- **Stablecoin sKZ** — lastro ao Kwanza, integrável via oráculos  
+- **DEX SkillTech** — swaps, AMM pools, políticas de fee programáveis  
+- **Tokenização** — equity on-chain e contratos comerciais tokenizados  
+- **SkillWallet** — multisig opcional, QR-pay, recuperação social (opcional)  
+- **Compliance** — alinhamento com Lei 22/11 e práticas de privacidade
 
 ---
 
-## 🔥 <span style="color:#5A00FF;">O que eu construo</span>
-
-### 🧩 **Infraestrutura Financeira Descentralizada**
-- 🪙 Stablecoin **sKZ**  
-- 🔄 DEX SkillTech (swap, liquidez, taxas dinâmicas)  
-- 🏢 Tokenização de empresas e contratos  
-- 📱 SkillWallet (custódia, ativos, QR Pay)  
-- 🧮 Oráculos e contratos de staking  
-- 🏛 DAO + governança  
-- 🔐 Segurança, auditoria e arquitetura zero-trust  
+## 🛠 Tecnologias & Tools
+- Solidity, TACT/FIFT, C# , Python, Node.js  
+- Django, Express, AWS, Docker, GitHub Actions  
+- Auditoria: OpenZeppelin, MythX (quando aplicável)
 
 ---
 
-## 🧠 <span style="color:#0099FF;">Stack Principal</span>
+## 📊 Commits diários & Atividade
+**Commit Calendar (visão diária):**
 
-### **Blockchains**
-- Solidity (EVM)
-- TACT / FUNC / FIFT (TON)
-- Arquitetura híbrida L2 + Web2
+![Commit Chart](https://ghchart.rshah.org/MrAiKen007)
 
-### **Linguagens**
-- C#
-- Python
-- JavaScript (Node.js)
+**Contribuições recentes (alternate visual)**  
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrAiKen007&theme=react-dark&width=720)
 
-### **Frameworks**
-- Django
-- Express.js
-- ASP.NET
-
-### **Cloud & Infra**
-- AWS (IAM, RDS, Lambda, EC2)
-- Docker
-- GitHub Actions
+> Se preferires uma tabela com números por dia, adiciono um snippet que gera um CSV a partir da API do GitHub e gera uma tabela estática para inserir aqui no README (posso gerar o script).
 
 ---
 
-## 🧬 <span style="color:#E00070;">Ecossistema SkillTech</span>
-
-### **💰 SkillWallet**
-- Stablecoin  
-- Tokenização  
-- Futuros (Derivativos)  
-- Pagamentos via QR Code  
-- Chaves privadas locais
-
-### **🏥 Kwiza**
-- Plataforma de agendamento para hospitais  
-- Identidade digital + integração govtech  
-
-### **🏦 sKZ Stablecoin**
-- Lastro ao Kwanza  
-- Liquidez programável  
-- Mercado local e P2P
-
-### **🔄 DEX SkillTech**
-- Swap  
-- Pools de liquidez  
-- Taxas dinâmicas  
-- Oráculos próprios  
-
-### **🤖 Mini Apps & Automação**
-- Bots Telegram avançados  
-- Mini apps com interface gráfica  
-- Execução automatizada de fluxos financeiros  
-
----
-
-## 📊 <span style="color:#5A00FF;">Estatísticas do GitHub</span>
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MrAiKen007&show_icons=true&theme=tokyonight&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAiKen007&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrAiKen007&theme=tokyonight)
-![Atividade Recente](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAiKen007&theme=tokyonight)
-
----
-
-## 📡 <span style="color:#0099FF;">Contato & Redes</span>
-
-[![GitHub](https://img.shields.io/badge/GitHub-MrAiKen007-0A0A0A?style=for-the-badge&logo=github)](https://github.com/MrAiKen007)  
+## 🔗 Links & Contato
+[![GitHub](https://img.shields.io/badge/GitHub-MrAiKen007-black?style=for-the-badge&logo=github)](https://github.com/MrAiKen007)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-%230099FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
 
 ---
 
 <p align="center">
-  <b style="color:#E00070;">SkillTech — Construindo a Infraestrutura Financeira do Futuro</b>
+  <b style="color:#5A00FF;">SkillTech — Arquitetura, Segurança e Liquidez para as Finanças Locais</b>
 </p>
+
+<!-- Notes for assets -->
+<!-- - Coloca `skilltech-anim.gif` em ./assets/ (loop curto, 4-6s, 560px width). -->
+<!-- - Substitui os usernames nas URLs dos gráficos se necessário. -->
