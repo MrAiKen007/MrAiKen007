@@ -1,61 +1,68 @@
-<!-- Animated README — SkillTech -->
+<!-- Dark Neon — SkillTech README -->
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CTO-%23E00070?style=for-the-badge&logo=github" alt="Role" />
-  <img src="https://img.shields.io/badge/Stack-Solidity%20%7C%20TON-%235A00FF?style=for-the-badge" alt="Stack" />
-  <img src="https://img.shields.io/badge/Status-Active-%230099FF?style=for-the-badge" alt="Status" />
+  <!-- Banner (substituir por ./assets/skilltech-neon-banner.png) -->
+  <img src="./assets/skilltech-neon-banner.png" alt="SkillTech Neon Banner" width="100%" />
 </p>
 
-# 👋 Jorge Paim — Founder & CTO @ SkillTech
-**Blockchain Builder · Infraestrutura Financeira Descentralizada (sKZ | DEX | Wallet)**
+# 👋 Olá — eu sou o Jorge Paim  
+**Founder & CTO • Blockchain Builder • Infraestrutura Financeira (sKZ | DEX | Tokenização)**
 
 ---
 
-<p align="center">
-  <!-- Animated GIF placeholder: replace with ./assets/skilltech-anim.gif -->
-  <img src="./assets/skilltech-anim.gif" alt="SkillTech Animation" width="560" />
-</p>
+<div align="center">
+  <sub style="color:#9AA3FF">
+    Construindo rails financeiros locais com segurança e escalabilidade — TON + EVM · Arquitetura híbrida Web2↔Web3
+  </sub>
+</div>
 
 ---
 
-## 🚀 Highlights
-- **Stablecoin sKZ** — lastro ao Kwanza, integrável via oráculos  
-- **DEX SkillTech** — swaps, AMM pools, políticas de fee programáveis  
-- **Tokenização** — equity on-chain e contratos comerciais tokenizados  
-- **SkillWallet** — multisig opcional, QR-pay, recuperação social (opcional)  
-- **Compliance** — alinhamento com Lei 22/11 e práticas de privacidade
+## 🔥 O que eu faço (resumo)
+- 🪙 **sKZ — Stablecoin** lastreada ao Kwanza  
+- 🔁 **DEX SkillTech**: swaps, pools, taxas dinâmicas  
+- 🏢 **Tokenização de Ativos** (equity, contratos)  
+- 📱 **SkillWallet**: custodial + QR-pay + multi-assets  
+- 🧭 **Oráculos, Staking, DAO & Governança**  
+- 🔐 Segurança: auditorias, práticas DevSecOps e arquitetura zero-trust
 
 ---
 
-## 🛠 Tecnologias & Tools
-- Solidity, TACT/FIFT, C# , Python, Node.js  
-- Django, Express, AWS, Docker, GitHub Actions  
-- Auditoria: OpenZeppelin, MythX (quando aplicável)
+## 🎯 Stack Principal
+**Blockchains:** Solidity (EVM) · TACT/FIFT (TON)  
+**Linguagens:** C#, Python, JavaScript (Node.js)  
+**Frameworks:** Django, Express.js, ASP.NET  
+**Cloud/Infra:** AWS (IAM/RDS/Lambda/EC2), Docker, GitHub Actions
 
 ---
 
-## 📊 Commits diários & Atividade
-**Commit Calendar (visão diária):**
+## 🧩 Ecossistema SkillTech
+- **SkillWallet** — stablecoin + wallet + tokenization  
+- **Kwiza** — agendamento médico integrado a identidades digitais  
+- **App Kilamba** — govtech & serviços locais  
+- **Magepa** — soluções ERP + integração financeira local
+
+---
+
+## 📈 Commits diários — Visual (Commit Calendar)
+> Substitui `MrAiKen007` pelo teu username se for diferente.
 
 ![Commit Chart](https://ghchart.rshah.org/MrAiKen007)
 
-**Contribuições recentes (alternate visual)**  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrAiKen007&theme=react-dark&width=720)
-
-> Se preferires uma tabela com números por dia, adiciono um snippet que gera um CSV a partir da API do GitHub e gera uma tabela estática para inserir aqui no README (posso gerar o script).
+> Alternativa (mais detalhada, place in `assets`):  
+> `https://activity-graph.herokuapp.com/graph?username=MrAiKen007&theme=github-dark&area=true`
 
 ---
 
-## 🔗 Links & Contato
-[![GitHub](https://img.shields.io/badge/GitHub-MrAiKen007-black?style=for-the-badge&logo=github)](https://github.com/MrAiKen007)  
+## 📡 Contato
+[![GitHub](https://img.shields.io/badge/GitHub-MrAiKen007-0A0A0A?style=for-the-badge&logo=github)](https://github.com/MrAiKen007)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-%230099FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
 
 ---
 
 <p align="center">
-  <b style="color:#5A00FF;">SkillTech — Arquitetura, Segurança e Liquidez para as Finanças Locais</b>
+  <b style="color:#E00070;">SkillTech — Infraestrutura Financeira do Futuro</b>
 </p>
 
 <!-- Notes for assets -->
-<!-- - Coloca `skilltech-anim.gif` em ./assets/ (loop curto, 4-6s, 560px width). -->
-<!-- - Substitui os usernames nas URLs dos gráficos se necessário. -->
+<!-- - Coloca `skilltech-neon-banner.png` em ./assets/ (recomendo 1600×400 px). -->
+<!-- - Paleta: #E00070 (carmim), #5A00FF (roxo), #0099FF (azul), #0A0A0A (dark). -->
