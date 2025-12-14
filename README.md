@@ -26,8 +26,8 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 
 ### 🧩 **Infraestrutura Financeira Descentralizada**
 - Carteira digital DeFI (SkillWallet)
-- PoLT - Proof of Local Trust
-- OracleMultichain
+- PoLT - Proof of Local Trust (Um novo conseito de BlockChain)
+- OracleMultichain (Infraestrutura Web3 + Web2)
 
 ---
 
