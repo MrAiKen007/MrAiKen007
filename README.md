@@ -58,7 +58,7 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 
 ---
 
-## 🧬 <span style="color:#E00070;">Ecossistema SkillTech</span>
+## 🧬 <span style="color:#E00070;">Ecossistema</span>
 
 ### **🤖 Mini Apps & Automação**
 - Bots Telegram avançados  
