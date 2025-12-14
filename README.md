@@ -16,9 +16,7 @@ Sou responsável pela visão técnica e pela construção do ecossistema finance
 - **Stablecoins lastreadas**
 - **Tokenização de ativos reais**
 - **DEX e pools de liquidez**
-- **Pagamentos com QR Code**
 - **Arquitetura híbrida Web2 + Web3**
-- **Contratos inteligentes escaláveis (TON + EVM)**
 
 Desenvolvo infraestrutura que transforma o mercado angolano e africano para a nova era digital.
 
@@ -27,13 +25,9 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 ## 🔥 <span style="color:#5A00FF;">O que eu construo</span>
 
 ### 🧩 **Infraestrutura Financeira Descentralizada**
-- 🪙 Stablecoin **sKZ**  
-- 🔄 DEX SkillTech (swap, liquidez, taxas dinâmicas)  
-- 🏢 Tokenização de empresas e contratos  
-- 📱 SkillWallet (custódia, ativos, QR Pay)  
-- 🧮 Oráculos e contratos de staking  
-- 🏛 DAO + governança  
-- 🔐 Segurança, auditoria e arquitetura zero-trust  
+- Carteira digital DeFI (SkillWallet)
+- PoLT - Proof of Local Trust
+- OracleMultichain
 
 ---
 
@@ -45,6 +39,7 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 - Arquitetura híbrida L2 + Web2
 
 ### **Linguagens**
+- GO
 - C#
 - Python
 - JavaScript (Node.js)
@@ -53,6 +48,8 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 - Django
 - Express.js
 - ASP.NET
+- Gin
+- FastAPI
 
 ### **Cloud & Infra**
 - AWS (IAM, RDS, Lambda, EC2)
@@ -63,29 +60,8 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 
 ## 🧬 <span style="color:#E00070;">Ecossistema SkillTech</span>
 
-### **💰 SkillWallet**
-- Stablecoin  
-- Tokenização  
-- Futuros (Derivativos)  
-- Pagamentos via QR Code  
-- Chaves privadas locais 
-
-### **🏦 sKZ Stablecoin**
-- Lastro ao Kwanza  
-- Liquidez programável  
-- Mercado local e P2P
-
-### **🔄 DEX SkillTech**
-- Swap  
-- Pools de liquidez  
-- Taxas dinâmicas  
-- Oráculos próprios  
-
 ### **🤖 Mini Apps & Automação**
 - Bots Telegram avançados  
-- Mini apps com interface gráfica  
-- Execução automatizada de fluxos financeiros  
-
 ---
 
 ## 📊 <span style="color:#5A00FF;">Estatísticas do GitHub</span>
