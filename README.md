@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/SkillTech-CTO-%23E00070?style=for-the-badge&logo=ton&logoColor=white" />
 </p>
 
-<h1 align="center" style="color:#E00070;">👋 Olá, eu sou o Jorge Paim</h1>
+<h1 align="center" style="color:#E00070;"> Olá, eu sou o Jorge Paim</h1>
 
 <p align="center" style="font-size:16px;">
   <b>Founder & CTO da SkillTech • Blockchain Builder • Arquiteto de Infraestrutura Financeira</b>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 <span style="color:#E00070;">Quem eu sou</span>
+##  <span style="color:#E00070;">Quem eu sou</span>
 Sou responsável pela visão técnica e pela construção do ecossistema financeiro da **SkillTech**, criando soluções que combinam:
 
 - **Stablecoins lastreadas**
@@ -22,16 +22,16 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 
 ---
 
-## 🔥 <span style="color:#5A00FF;">O que eu construo</span>
+##  <span style="color:#5A00FF;">O que eu construo</span>
 
-### 🧩 **Infraestrutura Financeira Descentralizada**
+###  **Infraestrutura Financeira Descentralizada**
 - Carteira digital DeFI (SkillWallet)
 - PoLT - Proof of Local Trust (Um novo conseito de BlockChain)
 - OracleMultichain (Infraestrutura Web3 + Web2)
 
 ---
 
-## 🧠 <span style="color:#0099FF;">Stack Principal</span>
+##  <span style="color:#0099FF;">Stack Principal</span>
 
 ### **Blockchains**
 - Solidity (EVM)
@@ -58,13 +58,13 @@ Desenvolvo infraestrutura que transforma o mercado angolano e africano para a no
 
 ---
 
-## 🧬 <span style="color:#E00070;">Ecossistema</span>
+##  <span style="color:#E00070;">Ecossistema</span>
 
-### **🤖 Mini Apps & Automação**
+### ** Mini Apps & Automação**
 - Bots Telegram avançados  
 ---
 
-## 📊 <span style="color:#5A00FF;">Estatísticas do GitHub</span>
+##  <span style="color:#5A00FF;">Estatísticas do GitHub</span>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MrAiKen007&show_icons=true&theme=tokyonight&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAiKen007&layout=compact&theme=tokyonight)
